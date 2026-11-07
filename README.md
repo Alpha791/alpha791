@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/frigates-banner.png"
+       alt="FRIGATES Banner"
+       width="100%">
+</p>
 # 👋 Hello, I'm FRIGATES
 
 ### 🚗 Driver | ✍️ Freelance Academic Writer | 💻 Technology Enthusiast | 🧠 Problem Solver
