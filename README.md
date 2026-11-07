@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/frigates-banner.png"
+  <img src="assets/Futuristic Frigates Tech Brand Banner (1).png"
        alt="FRIGATES Banner"
        width="100%">
 </p>
