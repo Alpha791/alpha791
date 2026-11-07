@@ -1,46 +1,35 @@
 # 👋 Hello, I'm FRIGATES
 
-### 💻 Developer | Technology Enthusiast | Problem Solver
+### 🚗 Driver | ✍️ Freelance Academic Writer | 💻 Technology Enthusiast | 🧠 Problem Solver
 
 Welcome to my GitHub profile!
 
-I'm passionate about technology, software development, and exploring innovative ways to solve real-world problems through code.
+I'm a versatile individual with a passion for driving, academic writing, modern technology, and solving complex problems. I enjoy learning new things, exploring innovative ideas, and finding practical solutions to everyday challenges.
 
-I believe in continuous learning, building meaningful projects, and turning ideas into practical solutions.
+As a driver, I value responsibility, discipline, and safety. Through freelance academic writing, I develop my research, communication, and critical-thinking skills. My interest in technology drives me to explore digital innovations and understand how modern solutions can make life easier.
 
----
+I believe every challenge has a solution, every experience offers a lesson, and continuous learning creates opportunities for growth.
 
-## 🚀 About Me
+### 🌟 What Drives Me
 
-- 💡 Interested in technology, programming, and innovation.
-- 🌱 Continuously learning and improving my technical skills.
-- 🛠️ Interested in building practical and impactful projects.
-- 🎯 Focused on problem-solving, creativity, and continuous improvement.
-- 🤝 Open to collaboration, knowledge sharing, and new opportunities.
+- 🚗 Driving with responsibility, confidence, and professionalism.
+- ✍️ Delivering quality freelance academic writing and research support.
+- 💻 Exploring technology and discovering better digital solutions.
+- 🧠 Approaching complex problems with logic, creativity, and determination.
+- 🌱 Learning, improving, and embracing new opportunities.
+- 🤝 Building meaningful connections and collaborating with others.
 
----
 
-## 🧰 Areas of Interest
+### 🌐 Find Me on GitHub
 
-- Software Development
-- Web Development
-- Technology & Innovation
-- Automation
-- Problem Solving
-- Open Source Projects
+[![GitHub](https://img.shields.io/badge/GitHub-Alpha791-black?style=for-the-badge&logo=github)](https://github.com/Alpha791)
 
 ---
 
-## 🌐 Connect With Me
+### 💭 My Motto
 
-- **GitHub:** [@Alpha791](https://github.com/Alpha791)
+> Think clearly. Learn continuously. Work passionately. Solve boldly. Move forward.
 
----
+**Different skills, one vision: making a positive impact through knowledge, creativity, and determination.**
 
-### 💭 My Philosophy
-
-> Great things are built through curiosity, consistency, creativity, and the courage to keep learning.
-
-**Thanks for visiting my profile! Feel free to explore my repositories and follow my journey.**
-
-⭐ If you find something interesting, consider giving it a star!
+⭐ Thank you for visiting my profile!
