@@ -1,40 +1,47 @@
-<p align="center">
-  <img src="assets/Futuristic Frigates Tech Brand Banner (1).png"
-       alt="FRIGATES Banner"
-       width="100%">
-</p>
-# 👋 Hello, I'm FRIGATES
 
-### 🚗 Driver | ✍️ Freelance Academic Writer | 💻 Technology Enthusiast | 🧠 Problem Solver
+# FRIGATES
 
-Welcome to my GitHub profile!
+### Technology | Software Development | Problem Solving
 
-I'm a versatile individual with a passion for driving, academic writing, modern technology, and solving complex problems. I enjoy learning new things, exploring innovative ideas, and finding practical solutions to everyday challenges.
+Building practical technology solutions through
+innovation, analytical thinking and continuous learning.
 
-As a driver, I value responsibility, discipline, and safety. Through freelance academic writing, I develop my research, communication, and critical-thinking skills. My interest in technology drives me to explore digital innovations and understand how modern solutions can make life easier.
+I explore modern technologies, develop software projects,
+solve complex technical problems and collaborate with
+developers who value quality engineering.
 
-I believe every challenge has a solution, every experience offers a lesson, and continuous learning creates opportunities for growth.
+### What I Work On
 
-### 🌟 What Drives Me
+- Software Development
+- Technology Research & Innovation
+- Automation & Problem Solving
+- Web Technologies
+- Technical Documentation
+- System Design & Development
 
-- 🚗 Driving with responsibility, confidence, and professionalism.
-- ✍️ Delivering quality freelance academic writing and research support.
-- 💻 Exploring technology and discovering better digital solutions.
-- 🧠 Approaching complex problems with logic, creativity, and determination.
-- 🌱 Learning, improving, and embracing new opportunities.
-- 🤝 Building meaningful connections and collaborating with others.
+### Developer Philosophy
 
+I believe technology should solve real problems,
+simplify complex processes and create meaningful impact.
 
-### 🌐 Find Me on GitHub
+### Collaboration
 
-[![GitHub](https://img.shields.io/badge/GitHub-Alpha791-black?style=for-the-badge&logo=github)](https://github.com/Alpha791)
+Interested in technical collaboration, software projects,
+development partnerships and commercial opportunities.
+
+### Project Licensing
+
+Original FRIGATES project materials are protected by
+copyright and proprietary licensing unless otherwise stated.
+
+Viewing a public repository does not grant additional
+permission to reuse its original materials.
+
+### Connect With FRIGATES
+
+GitHub: https://github.com/Alpha791
 
 ---
 
-### 💭 My Motto
-
-> Think clearly. Learn continuously. Work passionately. Solve boldly. Move forward.
-
-**Different skills, one vision: making a positive impact through knowledge, creativity, and determination.**
-
-⭐ Thank you for visiting my profile!
+Copyright (c) 2026 FRIGATES.
+All Rights Reserved.
